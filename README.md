@@ -17,10 +17,14 @@ or….<br />
 or… <br />
 <br />
 “We estimate [with low or moderate confidence that ABC country will launch a cyber attack against XYZ country].”<br />
+<br />
+<br />
 
 <h3>Source Summary</h3>
 
 A summary about my sources that I have used to support my report and where I get my information.<br />
+<br />
+<br />
 
 <h3>Technical Threat Analysis</h3>
 
