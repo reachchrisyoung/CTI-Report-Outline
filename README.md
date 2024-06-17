@@ -1,5 +1,7 @@
 # CTI Report Outline
 
+For Documentation, [Click Here:](https://github.com/reachchrisyoung/CTI-Report-Documentation/blob/main/README.md)
+
 <h3>Bottom Line Up Front (or My B.L.U.F.)</h3>
 
 This is my main point / recommendation / idea I want to get across to a decision-maker.<br />
