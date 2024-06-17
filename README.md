@@ -32,7 +32,8 @@ Focus on the more technical aspect.<br />
 <h3>Strategic Analysis (depending on the issue I’m working on)</h3>
 
 Focus on the broader impact to the organization / industry.<br />
-
+<br />
+<br />
 <h3>Conclusion</h3>
 
 More or less just a restatement of the bottom line upfront.<br />
