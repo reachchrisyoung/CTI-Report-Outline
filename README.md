@@ -1,4 +1,4 @@
-# CTI-Report-Outline
+# CTI Report Outline
 
 <h3>Bottom Line Up Front (or My B.L.U.F.)</h3>
 
