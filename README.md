@@ -1,6 +1,6 @@
 # CTI Report Outline
 
-For Documentation, [Click Here:](https://github.com/reachchrisyoung/CTI-Report-Documentation/blob/main/README.md)
+For Documentation, [Click Here:](https://github.com/reachchrisyoung/General-CTI-Reporting-Methodology?tab=readme-ov-file#readme)
 
 <h3>Bottom Line Up Front (or My B.L.U.F.)</h3>
 
