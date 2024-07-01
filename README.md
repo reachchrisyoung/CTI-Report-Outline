@@ -1,4 +1,4 @@
-# CTI Report Outline
+# General CTI Report Outline
 
 For Documentation, [Click Here:](https://github.com/reachchrisyoung/General-CTI-Reporting-Methodology?tab=readme-ov-file#readme)
 
